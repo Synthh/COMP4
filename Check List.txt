@@ -1,0 +1,8 @@
+Musical Notation Practice (including sharps and flats)
+Musical Notation Testing
+Chords and reverse chord lookup
+Scales and reverse scale lookup
+Circle of Fifths
+Circle of Fifths Testing
+Chord progressions
+Additionally - MIDI File input + keyboard connection (in order to play along with a visual representation of the MIDI song)
